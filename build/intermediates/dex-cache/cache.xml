@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anders\Desktop\pacmanMartin\Pacman\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Anders\Desktop\pacmanMartin\Pacman\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_99bf00c0055fa84560a74d1da847e6d7e7c54dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anders\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Anders\Desktop\pacmanMartin\Pacman\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ff1948edcede2e003d5c8584d12d46c6e8eef23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anders\.android\build-cache\9351ced6090ef24a35b8c089e5654703278ebbd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Anders\Desktop\pacmanMartin\Pacman\app\build\intermediates\pre-dexed\debug\classes_724c16c88d00d97c33c6c55762fa69e2c35d9761.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anders\Desktop\pacmanMartin\Pacman\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b3bfe3524e442993e477e3f1042e25bbb8ba2e0">
+        <dex dex="C:\Users\Anders\Desktop\pacmanMartin\Pacman\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8fa832263e830e0ca0bbf572120e6d0d8fd92f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anders\Desktop\pacman\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Anders\Desktop\pacman\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5b6968667c246b1e68de57b34085943fe24bb15c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anders\Desktop\pacman\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ce734c3a06c7995f78014b33b744b2ca8956718">
+        <dex dex="C:\Users\Anders\Desktop\pacman\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b6dceac6d2103dd8a8004da69487765561e913b0\classes.dex" />
+    </item>
+
+</items>
